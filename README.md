@@ -9,6 +9,7 @@
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
 |ポートフォリオ|[GithubPages](https://cohky16.github.io/)|
 |Twitter|[@cohky_github](https://twitter.com/cohky_github)|
+|趣味|カフェ読書|
 
 ## 概要
 - エンジニアとして２年ほど実務経験を積んでおり、主体的に行動することが評価され様々な業務を任せていただいております。
