@@ -5,11 +5,10 @@
 |key|value|
 |---|-----|
 |名前|安田　航希 (Yasuda Koki)|
-|ブログ|[note](https://note.com/cohky)|
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
 |ポートフォリオ|[GithubPages](https://cohky16.github.io/)|
 |Twitter|[@cohky_github](https://twitter.com/cohky_github)|
-|趣味|カフェ読書|
+|趣味|カリンバ、読書|
 
 ## 概要
 - エンジニアとして２年ほど実務経験を積んでおり、主体的に行動することが評価され様々な業務を任せていただいております。
@@ -19,7 +18,7 @@
 - 基本的に実務で使用したスキルのみ記載しております。
 
 ### 言語
-Java / Python
+Java
 
 ### フレームワーク
 Spring Boot / Struts
