@@ -6,7 +6,6 @@
 |---|-----|
 |名前|安田　航希 (Yasuda Koki)|
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
-|ポートフォリオ|[GithubPages](https://cohky16.github.io/)|
 |Twitter|[@cohky_github](https://twitter.com/cohky_github)|
 |趣味|カリンバ、読書|
 
