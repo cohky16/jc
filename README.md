@@ -17,7 +17,7 @@
 - 基本的に実務で使用したスキルのみ記載しております。
 
 ### 言語
-Java
+Java / HTML
 
 ### フレームワーク
 Spring Boot / Struts
@@ -61,7 +61,7 @@ Eclipse / VSCode / Oracle SQLDeveloper
 
 【担当業務】主な担当としては、エンハンス作業を行っておりました。付随する作業としてエラー調査やリカバリ作業などの運用保守、AWSのCodepipelineでのDEV、STG、本番環境リリース作業の実施、バッチの適用作業などを担当いたしました。
 
-【使用技術】Java / Spring / Eclipse / AWS / SQLDeveloper /Tomcat / Git / Jira / Backlog / Slack / Postman
+【使用技術】Java / HTML / Spring / Eclipse / AWS / SQLDeveloper /Tomcat / Git / Jira / Backlog / Slack / Postman
 
 【貢献事項】本来インフラは管轄外だったのですが、主体的に行動していたことが評価され、リリースの準備やリリース作業まで担当させていただくことができました。
 
