@@ -1,0 +1,22 @@
+{
+  "name": "jc",
+  "version": "1.0.0",
+  "description": "## 基本情報",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cohky16/jc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cohky16/jc/issues"
+  },
+  "homepage": "https://github.com/cohky16/jc#readme",
+  "dependencies": {
+    "md-to-pdf": "^3.1.2"
+  }
+}
