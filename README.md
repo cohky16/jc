@@ -6,8 +6,8 @@
 |---|-----|
 |名前|安田　航希 (Yasuda Koki)|
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
-|Twitter|[@cohky_github](https://twitter.com/cohky_github)|
-|趣味|カリンバ、読書|
+|コード管理|[GitHub](https://github.com/cohky16)|
+|SNS|[Twitter](https://twitter.com/cohky_github)|
 
 ## 概要
 - webアプリケーションの開発
@@ -34,6 +34,8 @@ GitHub / TortoiseSVN / JIRA / Backlog / REDMINE / Brabio / Slack / Tomcat / Post
 
 ### ツール
 Eclipse / VSCode / Oracle SQLDeveloper
+
+<div style="page-break-before:always"></div>
 
 ## 職務経歴
 
