@@ -7,41 +7,63 @@
 |名前|安田　航希 (Yasuda Koki)|
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
 |コード管理|[GitHub](https://github.com/cohky16)|
-|SNS|[Twitter](https://twitter.com/cohky_github)|
 
 ## 概要
 - webアプリケーションの開発
-    - Javaで2年
+    - JavaScript 1年
+    - Java 2年
 
 ## スキル
-- 基本的に実務で使用したスキルのみ記載しております。
+- 実務で使用したスキルのみ記載しております。
 
 ### 言語
-Java
+JavaScript / Java
 
 ### フレームワーク
-Spring Boot / Struts
+TypeScript / Spring Boot / Struts
 
 ### DB
-PostgreSQL / MySQL
+MySQL / PostgreSQL
 
 ### クラウド
 #### AWS
-EC2 / VPC / Lambda / CodePipeline / CloudWatch
+Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline
 
 ### SaaS
-GitHub / TortoiseSVN / JIRA / Backlog / REDMINE / Brabio / Slack / Tomcat / Postman
+#### コード管理
+GitHub / GitLab / TortoiseSVN
+
+#### プロジェクト管理
+JIRA / Backlog / REDMINE / Brabio
+
+#### その他
+Slack / Chatwork / Tomcat / Postman
 
 ### ツール
-Eclipse / VSCode / Oracle SQLDeveloper
+VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
 
 <div style="page-break-before:always"></div>
 
 ## 職務経歴
 
+### 定期テスト対策アプリのAPI開発(2021/01 -)
+
+【職務】サーバーサイドエンジニア(PL)
+
+【チーム規模】5人(PM1, PL2, PG2)
+
+【プロジェクト概要】定期テスト対策アプリのAPI新規開発、機能修正、監視を行っておりました。
+
+【担当業務】イシューの管理やリリース作業、また新規機能やバグ調査・修正、エラー監視に関わる作業の実施、コードのレビュー、マージなどを担当いたしました。
+
+【使用技術】TypeScript / VSCode / GitLab / MySQL / AWS / Slack / Chatwork
+
+【貢献事項】PLとしてチームへの効率のいいタスク振り分けや、会議での積極的な発言など、プロジェクトを成功に導くために主体的な行動することで貢献いたしました。
+
+
 ### 資産管理アプリの開発(2020/04 - 2020/09)
 
-【職務】サーバーサイドエンジニア
+【職務】サーバーサイドエンジニア(PG)
 
 【チーム規模】4人(PL1,PG3)
 
@@ -55,7 +77,7 @@ Eclipse / VSCode / Oracle SQLDeveloper
 
 ### 企業・業界分析プラットフォームの運用保守、エンハンス(2019/09 - 2020/03)
 
-【職務】サーバーサイドエンジニア
+【職務】サーバーサイドエンジニア(PG)
 
 【チーム規模】5人(PM1,PL1,PG3)
 
@@ -70,7 +92,7 @@ Eclipse / VSCode / Oracle SQLDeveloper
 
 ### 大手自動車会社の図面管理システムの運用保守(2019/06 - 2019/09)
 
-【職務】サーバーサイドエンジニア
+【職務】サーバーサイドエンジニア(PG)
 
 【チーム規模】6人(PM1,PL2,PG3)
 
