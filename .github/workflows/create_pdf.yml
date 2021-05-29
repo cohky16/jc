@@ -2,9 +2,8 @@ name: Create PDF
 on: push
 
 jobs:
-  lint:
-    name: Create PDF
-    runs-on: ubuntu-latest
+  create_PDF:
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
