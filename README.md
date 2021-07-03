@@ -42,6 +42,10 @@ Slack / Chatwork / Tomcat / Postman
 ### ツール
 VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
 
+### 資格
+
+AWS 認定 Cloud Practitioner
+
 <div style="page-break-before:always"></div>
 
 ## 職務経歴
