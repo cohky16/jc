@@ -9,18 +9,18 @@
 |コード管理|[GitHub](https://github.com/cohky16)|
 
 ## 概要
-- webアプリケーションの開発
-    - JavaScript 1年
+- webアプリケーションの開発、運用保守
+    - TypeScript 1年
     - Java 2年
 
 ## スキル
 - 実務で使用したスキルのみ記載しております。
 
 ### 言語
-JavaScript / Java
+TypeScript / Java
 
 ### フレームワーク
-TypeScript / Spring Boot / Struts
+Spring Boot / Struts
 
 ### DB
 MySQL / PostgreSQL
