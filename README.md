@@ -40,11 +40,11 @@ GitHub / GitLab / TortoiseSVN
 #### プロジェクト管理
 JIRA / Backlog / REDMINE / Brabio
 
-#### その他
-Slack / Chatwork / Tomcat / Postman / GraphQL / Node.js / Docker / Serverless Framework
-
 ### ツール
 VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
+
+#### その他
+GraphQL / Node.js / Docker / Serverless Framework / Slack / Chatwork / Tomcat / Postman
 
 ### 資格
 
