@@ -9,25 +9,29 @@
 |コード管理|[GitHub](https://github.com/cohky16)|
 
 ## 概要
-- webアプリケーションの開発、運用保守
-    - TypeScript 1年
-    - Java 2年
+- TypeScriptでのAPI開発
+- PLとしてのチーム運用経験
+- AWSでのサーバーレス環境構築
+- Javaでのサーバーサイド開発
 
 ## スキル
-- 実務で使用したスキルのみ記載しております。
+実務で使用したスキルのみ記載しております。
 
 ### 言語
 TypeScript / Java
 
 ### フレームワーク
-Spring Boot / Struts
+NestJS / Spring Boot / Struts
 
 ### DB
 MySQL / PostgreSQL
 
+### ORM
+TypeORM / Prisma
+
 ### クラウド
 #### AWS
-Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline
+Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS
 
 ### SaaS
 #### コード管理
@@ -37,14 +41,15 @@ GitHub / GitLab / TortoiseSVN
 JIRA / Backlog / REDMINE / Brabio
 
 #### その他
-Slack / Chatwork / Tomcat / Postman
+Slack / Chatwork / Tomcat / Postman / GraphQL / Node.js / Docker / Serverless Framework
 
 ### ツール
 VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
 
 ### 資格
 
-AWS 認定 Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
 <div style="page-break-before:always"></div>
 
@@ -65,7 +70,7 @@ AWS 認定 Cloud Practitioner
 【貢献事項】PLとしてチームへの効率のいいタスク振り分けや、会議での積極的な発言など、プロジェクトを成功に導くために主体的な行動することで貢献いたしました。
 
 
-### 資産管理アプリの開発(2020/04 - 2020/09)
+### 資産管理アプリのAPI開発(2020/04 - 2020/09)
 
 【職務】サーバーサイドエンジニア(PG)
 
