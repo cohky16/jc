@@ -44,7 +44,7 @@ JIRA / Backlog / REDMINE / Brabio
 VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
 
 #### その他
-GraphQL / Node.js / Docker / Serverless Framework / Slack / Chatwork / Tomcat / Postman
+GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman
 
 ### 資格
 
@@ -65,7 +65,7 @@ GraphQL / Node.js / Docker / Serverless Framework / Slack / Chatwork / Tomcat / 
 
 【担当業務】イシューの管理やリリース作業、また新規機能やバグ調査と修正、エラー監視に関わる作業の実施、コードのレビュー、マージなどを担当いたしました。
 
-【使用技術】TypeScript / VSCode / GitLab / MySQL / AWS / Slack / Chatwork
+【使用技術】TypeScript / NestJS / TypeORM / Prisma / AWS / MySQL / GitLab / VSCode / Slack / Chatwork
 
 【貢献事項】PLとしてチームへの効率のいいタスク振り分けや、会議での積極的な発言など、プロジェクトを成功に導くために主体的な行動することで貢献いたしました。
 
