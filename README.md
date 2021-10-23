@@ -51,8 +51,6 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
 
-<div style="page-break-before:always"></div>
-
 ## 職務経歴
 
 ### 定期テスト対策アプリのAPI開発(2021/01 -)
