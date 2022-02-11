@@ -31,7 +31,7 @@ TypeORM / Prisma
 
 ### クラウド
 #### AWS
-Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito / 
+Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito
 
 ### SaaS
 #### コード管理
