@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|名前|安田　航希 (Yasuda Koki)|
+|名前|安田 航希 (Yasuda Koki)|
 |技術メモ|[Zenn](https://zenn.dev/cohky)|
 |コード管理|[GitHub](https://github.com/cohky16)|
 
@@ -31,7 +31,7 @@ TypeORM / Prisma
 
 ### クラウド
 #### AWS
-Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS
+Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito / 
 
 ### SaaS
 #### コード管理
