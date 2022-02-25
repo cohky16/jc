@@ -5,51 +5,26 @@
 |key|value|
 |---|-----|
 |名前|安田 航希 (Yasuda Koki)|
-|技術メモ|[Zenn](https://zenn.dev/cohky)|
+|技術発信|[Zenn](https://zenn.dev/cohky)|
 |コード管理|[GitHub](https://github.com/cohky16)|
 
 ## 概要
-- TypeScriptでのAPI開発
-- PLとしてのチーム運用経験
-- AWSでのサーバーレス環境構築
-- Javaでのサーバーサイド開発
+- API開発
+  - TypeScript,Java　あわせて2年ほど
+- チーム運用経験
+  - PLとして1年ほど
+- クラウド環境構築
+  - AWSを用いて1年ほど
+- システム運用保守
+  - Javaを用いて1年ほど
 
-## スキル
-実務で使用したスキルのみ記載しております。
-
-### 言語
-TypeScript / Java
-
-### フレームワーク
-NestJS / Spring Boot / Struts
-
-### DB
-MySQL / PostgreSQL
-
-### ORM
-TypeORM / Prisma
-
-### クラウド
-#### AWS
-Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito / KMS / Secrets Manager
-
-### SaaS
-#### コード管理
-GitHub / GitLab / TortoiseSVN
-
-#### プロジェクト管理
-JIRA / Backlog / REDMINE / Brabio
-
-### ツール
-VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
-
-#### その他
-GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman
-
-### 資格
-
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
+## 強み
+- 主体性
+  - 業務効率化のためのツール制作、会議での積極的な発言、新人研修資料の作成など、常に主体的に行動することを意識しています。
+- 好奇心
+  - プライベートでの資格勉強やエンジニア養成機関である42Tokyoに通うなど、新しい知識を身につけることが大好きです。
+- 効率化への意識
+  - できる限り無駄を省くためにツールを制作、導入するなど、作業する中で無駄がないかどうかを常に意識するようにしています。
 
 ## 職務経歴
 
@@ -59,13 +34,13 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 
 【チーム規模】5人(PM1, PL2, PG2)
 
-【プロジェクト概要】定期テスト対策アプリのAPI新規開発、機能修正、監視を行っておりました。
+【プロジェクト概要】定期テスト対策アプリのAPI新規開発、クラウド環境構築、機能修正、監視を行っておりました。
 
 【担当業務】イシューの管理やリリース作業、また新規機能やバグ調査と修正、エラー監視に関わる作業の実施、コードのレビュー、マージなどを担当いたしました。
 
 【使用技術】TypeScript / NestJS / TypeORM / Prisma / AWS / MySQL / GitLab / VSCode / Slack / Chatwork
 
-【貢献事項】PLとしてチームへの効率のいいタスク振り分けや、会議での積極的な発言など、プロジェクトを成功に導くために主体的な行動することで貢献いたしました。
+【貢献事項】PLとしてチームへの効率のいいタスク振り分けや、会議での積極的な発言など、プロジェクトを成功に導くために主体的な行動をすることで貢献いたしました。
 
 
 ### 資産管理アプリのAPI開発(2020/04 - 2020/09)
@@ -80,7 +55,7 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 
 【使用技術】Java / Spring / Eclipse / SVN / MySQL / Redmine
 
-【貢献事項】お金に関わることなのでバグができる限り起こらないように入念なテストを実施いたしました。実際にそこでバグを見つけることができ、事前に対応することができました。
+【貢献事項】お金に関わることなのでバグができる限り起こらないように入念なテストを実施いたしました。実際にそのテストでバグを見つけることができ、事前に対応することができました。
 
 ### 企業・業界分析プラットフォームの運用保守、エンハンス(2019/09 - 2020/03)
 
@@ -105,10 +80,47 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 
 【プロジェクト概要】主に図面管理システムの運用保守、ドキュメントの修正などを行っておりました。
 
-【担当業務】単体テスト、結合テストの仕様書作成と実施、設計書やREADMEなどのドキュメント修正を担当いたしました。
+【担当業務】ユニットテスト、結合テストの仕様書作成と実施、設計書やREADMEなどのドキュメント修正を担当いたしました。
 
 【使用技術】Java / Struts / Oracle SQLDeveloper
 
 【貢献事項】担当業務の範囲が狭かったため自分の業務を効率よく終わらせ、見づらい書類や設計書などの修正を積極的に行っておりました。
 
+<div style="page-break-before:always"></div>
 
+## スキル
+実務で使用したスキルのみ記載しております。
+
+### 言語
+TypeScript / Java
+
+### フレームワーク
+NestJS / Spring Boot / Struts
+
+### DB
+MySQL / PostgreSQL
+
+### O/Rマッパ
+TypeORM / Prisma
+
+### クラウド
+#### AWS
+Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito / KMS / Secrets Manager
+
+### SaaS
+#### コード管理
+GitHub / GitLab / TortoiseSVN
+
+#### プロジェクト管理
+JIRA / Backlog / REDMINE / Brabio
+
+### ツール
+VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
+
+#### その他
+GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman / Notion
+
+### 資格
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
