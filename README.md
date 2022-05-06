@@ -118,7 +118,7 @@ JIRA / Backlog / REDMINE / Brabio
 VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
 
 #### その他
-GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman / Notion
+GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman / Notion / Discord
 
 ### 資格
 
