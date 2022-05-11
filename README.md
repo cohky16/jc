@@ -10,7 +10,7 @@
 
 ## 概要
 - API開発
-  - TypeScript,Java　あわせて2年ほど
+  - TypeScript,Javaであわせて2年ほど
 - チーム運用経験
   - PLとして1年ほど
 - クラウド環境構築
