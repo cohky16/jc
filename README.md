@@ -122,5 +122,6 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 
 ### 資格
 
+- AWS Certified Developer - Associate
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
