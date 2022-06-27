@@ -122,7 +122,7 @@ GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / 
 
 ### 資格
 
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Developer - Associate
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
+- [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/61788a73-7845-411f-930b-cb8264648fdf/public_url)
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/ba07529e-da88-4dc4-b763-c4656b916eda/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/23d3f11e-6ae2-4be9-9eeb-aa000aa27d3d/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/94757fa6-c676-41f4-bc74-d86adb409efa/public_url)
