@@ -114,7 +114,7 @@ GitHub / GitLab / TortoiseSVN
 JIRA / Backlog / REDMINE / Brabio
 
 ### ツール
-VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper
+VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper / IntelliJ IDEA
 
 #### その他
 GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman / Notion / Discord
