@@ -9,14 +9,14 @@
 |コード管理|[GitHub](https://github.com/cohky16)|
 
 ## 概要
-- API開発
-  - TypeScript,Javaであわせて2年ほど
+- API設計・開発・保守経験
+  - TypeScript,Javaであわせて6年ほど
 - チーム運用経験
-  - PLとして1年ほど
-- クラウド環境構築
-  - AWSを用いて1年ほど
-- システム運用保守
-  - TypeScript,Javaであわせて2年ほど
+  - PLとして2年ほど
+- クラウド環境開発経験
+  - AWS,GCPを用いてあわせて3年ほど
+  - Terraformを用いたインフラ構築経験あり
+- 要件定義から運用保守までの一貫した開発経験
 
 ## 強み
 - 主体性
@@ -28,7 +28,22 @@
 
 ## 職務経歴
 
-### 定期テスト対策アプリのAPI開発(2021/01 -)
+### 大手マッチングアプリのAPI開発(2022/07 -)
+
+【職務】サーバーサイドエンジニア(PG)
+
+【チーム規模】x人(PMx, PLx, PGx)
+
+【プロジェクト概要】xxx
+
+【担当業務】xxx
+
+【使用技術】TypeScript / Node.js / MongoDB / AWS / GitHub / VSCode / Slack / Notion
+
+【貢献事項】xxx
+
+
+### 定期テスト対策アプリのAPI開発(2021/01 - 2022/06)
 
 【職務】サーバーサイドエンジニア(PL)
 
@@ -91,20 +106,29 @@
 実務で使用したスキルのみ記載しております。
 
 ### 言語
-TypeScript / Java
+TypeScript / JavaScript / Java
 
 ### フレームワーク
 NestJS / Spring Boot / Struts
 
 ### DB
-MySQL / PostgreSQL
+MongoDB / MySQL / PostgreSQL
 
 ### O/Rマッパ
-TypeORM / Prisma
+Mongoose / TypeORM / Prisma
+
+### ユニットテスト
+Vitest / Jest
 
 ### クラウド
 #### AWS
-Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / CloudFormation / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / ECS / Athena / Cognito / KMS / Secrets Manager / API Gateway / SQS
+ECS / ECR / WAF / OpenSearch Service / Elasticache / Lambda / AppSync / RDS / CloudWatch / CloudFront / S3 / XRay / Chatbot / SNS / EC2 / VPC / CodePipeline / Athena / Cognito / KMS / Secrets Manager / API Gateway / SQS / Rekognition
+
+#### GCP
+Identity Platform / Firestore / Cloud Functions For Firebase / BigQuery
+
+### IaC
+Terraform / CloudFormation / Serverless Framework
 
 ### SaaS
 #### コード管理
@@ -113,14 +137,24 @@ GitHub / GitLab / TortoiseSVN
 #### プロジェクト管理
 JIRA / Backlog / REDMINE / Brabio
 
+#### 監視
+Datadog / Sentry
+
+#### 分析
+Snowflake / Google Analytics / Google Search Console
+
 ### ツール
-VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper / IntelliJ IDEA
+Cursor / VSCode / MySQL Workbench / iTerm2 / Eclipse / Oracle SQLDeveloper / IntelliJ IDEA
 
 #### その他
-GraphQL / Node.js / Docker / Serverless Framework / Sentry / Slack / Chatwork / Tomcat / Postman / Notion / Discord
+Braze / GraphQL / Node.js / Docker / Slack / Chatwork / Tomcat / Postman / Notion / Discord / Obsidian
+
+### 開発手法
+アジャイル / スクラム / カンバン / ウォーターフォール
 
 ### 資格
 
+- [Braze Certified Practitioner](https://www.credly.com/badges/aadcd7f0-d825-41f3-a5ae-fbbf9460747e/public_url)
 - [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/61788a73-7845-411f-930b-cb8264648fdf/public_url)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/ba07529e-da88-4dc4-b763-c4656b916eda/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/23d3f11e-6ae2-4be9-9eeb-aa000aa27d3d/public_url)
