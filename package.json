@@ -15,11 +15,8 @@
   },
   "homepage": "https://github.com/cohky16/jc#readme",
   "dependencies": {
-    "md-to-pdf": "^3.3.2",
+    "mdpdf": "^3.1.0",
     "textlint": "^12.1.1",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
-  },
-  "overrides": {
-    "puppeteer": "24.17.1"
   }
 }
